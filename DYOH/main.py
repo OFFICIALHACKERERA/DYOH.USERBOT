@@ -2,7 +2,7 @@
 import subprocess
 
 # List of files to run
-files_to_run = ["start.py", "Ggg.py"]
+files_to_run = ["start.py", "main.py"]
 
 processes = []
 
