@@ -2,7 +2,7 @@
 import subprocess
 
 # List of files to run
-files_to_run = ["raid.py", "alive.py"]
+files_to_run = ["raid.py", "start.py"]
 
 processes = []
 
