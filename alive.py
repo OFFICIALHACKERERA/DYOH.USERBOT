@@ -1,6 +1,5 @@
 import asyncio
 import random
-import os
 import time
 from datetime import timedelta
 from platform import python_version
@@ -27,20 +26,21 @@ async def handle_alive_command(event):
         return
 
     uptime = get_readable_time(time.time() - StartTime)
-    emoji = random.choice(["✥", "✔️", "⭐", "✨", "☣️", "🔰", "🏴", "‍☠️" ,"🚀"])
+    emoji = random.choice(["✥", "✔️", "⭐", "✨", "☣️", "🔰", "🏴", "‍☠️", "🚀"])
     my = random.choice(["🇦🇱", "💠", "🔷", "🔹"])
 
     legend_caption = (
-    f"**─────────────────**\n"
-    f"**DYOH USERBOT IS ONLINE {my}**\n"
-    f"**─────────────────**\n"
-    f"**╭───────────────**\n"
-    f"**┣{emoji} Telethon version :** `{version.__version__}`\n"
-    f"**┣{emoji} Userbot Version :** `{legendversion}`\n"
-    f"**┣{emoji} Python Version :** `{python_version()}`\n"
-    f"**┣{emoji} Uptime :** {uptime}\n"
-    f"**┣{emoji} Master:** @{BOT_USERNAME}\n"
-    f"╰─────────────────\n")
+        f"**─────────────────**\n"
+        f"**DYOH USERBOT IS ONLINE {my}**\n"
+        f"**─────────────────**\n"
+        f"**╭───────────────**\n"
+        f"**┣{emoji} Telethon version :** `{version.__version__}`\n"
+        f"**┣{emoji} Userbot Version :** `{legendversion}`\n"
+        f"**┣{emoji} Python Version :** `{python_version()}`\n"
+        f"**┣{emoji} Uptime :** {uptime}\n"
+        f"**┣{emoji} Master:** @{BOT_USERNAME}\n"
+        f"╰─────────────────\n"
+    )
 
     buttons = [[Button.url("Repo", "https://github.com/ITS-LEGENDBOT/LEGENDBOT")]]
 
@@ -180,17 +180,3 @@ async def register_handlers(legend):
     async def ai_reply(event):
         if event.chat_id in active_raids and event.sender_id in active_raids[event.chat_id]:
             await event.reply(random.choice(RAID))
-
-# Main execution
-async def main():
-    legends = [
-        TelegramClient(StringSession(session), api_id=APP_ID, api_hash=API_HASH, auto_reconnect=True)
-        for session in LEGEND_STRINGS
-    ]
-    await asyncio.gather(*[register_handlers(legend) for legend in legends])
-    await asyncio.gather(*[legend.start() for legend in legends])
-    await asyncio.gather(*[legend.run_until_disconnected() for legend in legends])
-
-# Colab mein run karne ke liye
-if __name__ == "__main__":
-    asyncio.run(main())
