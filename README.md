@@ -16,7 +16,7 @@
 </p>
 
 
-<p align="center" style="color: red; font-size: 44px;">✩ JOIN THE CHANNEL TO VIEW INSTALLATION COMMANDS ✩</p>
+<p align="center" style="color: red; font-size: 44px;">JOIN THE CHANNEL TO VIEW INSTALLATION COMMANDS</p>
 
 
 
