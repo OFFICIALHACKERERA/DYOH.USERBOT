@@ -9,10 +9,10 @@ cd DYOH.USERBOT
 ```
 
 
-```shell script
-$ python --version
+```bash
+!ls
 ```
 If you get the following
-```shell script
+```bash 
 Python 3.8.3
 ```
