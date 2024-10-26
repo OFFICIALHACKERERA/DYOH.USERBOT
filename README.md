@@ -3,15 +3,16 @@
 <p align="center">DOYH UBOT </p>
 
 <p align="center">
-    <span style="color: rgb(255, 0, 0);">D</span>
-    <span style="color: rgb(0, 255, 0);">O</span>
-    <span style="color: rgb(0, 0, 255);">Y</span>
-    <span style="color: rgb(255, 255, 0);">H</span>
-    <span style="color: rgb(255, 0, 255);"> </span>
-    <span style="color: rgb(0, 255, 255);">U</span>
-    <span style="color: rgb(255, 165, 0);">B</span>
-    <span style="color: rgb(128, 0, 128);">O</span>
-    <span style="color: rgb(0, 128, 0);">T</span>
+<p align="center">
+    <span style="color: #ff0000;">D</span>
+    <span style="color: #00ff00;">O</span>
+    <span style="color: #0000ff;">Y</span>
+    <span style="color: #ffff00;">H</span>
+    <span style="color: #ffffff;"> </span>
+    <span style="color: #00ffff;">U</span>
+    <span style="color: #ffa500;">B</span>
+    <span style="color: #800080;">O</span>
+    <span style="color: #008000;">T</span>
 </p>
 
 ###          Installation
