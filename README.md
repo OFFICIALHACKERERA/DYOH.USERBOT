@@ -15,7 +15,9 @@
     <span style="color: #008000;">T</span>
 </p>
 
-###          Installation
+
+<p align="center">Installation</p>
+          
 <p align="center">click here</p>
 
 <p align="center">
