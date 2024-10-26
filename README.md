@@ -16,7 +16,7 @@
 </p>
 
 
-<p align="center">Installation</p>
+<p align="center">Installation camands join channel</p>
           
 <p align="center">click here</p>
 
