@@ -16,7 +16,7 @@
 </p>
 
 
-<p align="center">Installation camands join channel</p>
+<p align="center">Join the channel to view installation commands</p>
           
 <p align="center">click here</p>
 
