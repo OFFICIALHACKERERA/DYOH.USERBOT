@@ -6,9 +6,16 @@ API_HASH = os.environ.get("API_HASH", "c6c02e51a03f6b03dba9ad9a826dc2f1")
 
 # Define string sessions
 STRING_SESSION = [
-    os.environ.get("STRINGS_SESSION_1", "1BVtsOJkBu6zMqekR3w3geIAq7TiyjJ2hC7rExNw6_DmaXoJwi20BJVabpCvDVbGq8AN8YU75CPzAype5HMd0shjj_wvO_3aENCY51kb9Jw9uEn0bBUfgo4oK_vQf7uqt5jJ7e_huFgfIPArA-SDIItAP2wc5wS6QV4lj-rjnyxtF8XZHayh4NrAwdhleoAoZZyjHyhTHO1g4tj5xqUii1_1BuZI40yRwV_wgWw2cpnJaVgCCNJAPQ8vihT_COQYN4KCZXr_Z2cZhVI0Il8G2yPzFPoYR_R-oxkYqX4xgkIzHHIoHU_NSNC8GPAf8rVil_vmovcRESZ8U4QPM8CJFEytavDfV9Gc="),
-    os.environ.get("STRINGS_SESSION_2", "1BVtsOGcBuzTNIJm8ak4Xnl7FDovlhgUxbOZIjVse38Vs--WWe2J0OXnfLL63Z0GQiyZX1xx6DnwcrqaR_dslw4vqXt6gZtt2hdgChIbD2eDoAbJcHZNKUSGFGFAcv9BeuiCZd-fTZOCmDP41EWpuhn5EpKbNr3DY9mw9dtSoEvqYqxp8XGQCIko3B-Tr63aMNf0PVDArZcDmyAuDrY0C0rc-I5-m9_n8MbWT78vg6ANB2nWP95yQorqruf9BPiFJF8t36_qhyE0TXO58Y2O93D3JQV-UMIUqJDVPy1ABWqrqae54mfbhHeBOgJTb3tGfS16nq3ygwxMEbIJ2GAduDVfvEdaNXio=")
+    os.environ.get("STRINGS_SESSION_1", "1BVtsOLoBu2_ICyYCk7K8luN1-RI1Rn2LgTQopwY2-6wOMJ756-ScQUXV1Jbe9wwf2CrDIjQGsXH4QJGyJ_CXYBP-_XV0o02n6PoHtnR3wKuqJWJYZMy0n3xl876wxD88HSu0uHv-nkDSCVlEfUUoDD7wwZIOmQlnvNUQoNwCl1fCuYAZcE2XWn_qYyF38aMF21fAj3tAlm6fK5O5Gn4ZL0wsyOJsWVqFUaaupV2jTyYivm8h1eTgbJvaN2fA1ZkdTAM8_K2e5CyUtU_MUUNWoRshHTucxavmz0RLseaw4cjpzc8oKhuOuhq_PxoHKsm4xiDrgbL3yNLpelpH1NxxmC_6f4V8IBM="),
+   #os.environ.get("STRINGS_SESSION_2", "paste your string season")
+   #os.environ.get("STRINGS_SESSION_3", "paste your string season")
 ]
+
+
+
+
+
+
 
 # User and Bot Configuration
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "@YourBotUsername")
