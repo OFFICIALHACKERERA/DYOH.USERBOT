@@ -16,9 +16,9 @@
 </p>
 
 
-<p align="center">Join the channel to view installation commands</p>
-          
-<p align="center">click here</p>
+
+          <p align="center" style="color: red; font-size: 14px;">Join the channel to view installation commands</p>
+
 
 <p align="center">
     <a href="https://t.me/DYOH_USERBOT">
