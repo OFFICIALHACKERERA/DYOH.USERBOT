@@ -14,5 +14,5 @@ git clone https://github.com/OFFICIALHACKERERA/DYOH.USERBOT.git
 
 
 ```bash 
-Python 3.8.3
+!python start.py
 ```
