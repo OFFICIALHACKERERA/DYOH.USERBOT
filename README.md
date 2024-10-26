@@ -32,7 +32,7 @@
 </p>
 
 
-<p align="center">"CONTACT FOR ANY PROBLEMS</p>
+<p align="center">CONTACT FOR ANY PROBLEMS</p>
 
 
 <p align="center">
