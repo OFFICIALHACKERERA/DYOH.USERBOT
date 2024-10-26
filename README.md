@@ -16,7 +16,7 @@
 </p>
 
 
-<p align="center" style="color: red; font-size: 14px;">Join the channel to view installation commands</p>
+<p align="center" style="color: red; font-size: 4px;">✩𝐉𝐎𝐈𝐍 𝐓𝐇𝐄 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 𝐓𝐎 𝐕𝐈𝐄𝐖 𝐈𝐍𝐒𝐓𝐀𝐋𝐋𝐀𝐓𝐈𝐎𝐍 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒</p>
 
 
 
