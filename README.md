@@ -2,10 +2,20 @@
 
 <p align="center">DOYH UBOT </p>
 
-
+<p align="center">
+    <span style="color: rgb(255, 0, 0);">D</span>
+    <span style="color: rgb(0, 255, 0);">O</span>
+    <span style="color: rgb(0, 0, 255);">Y</span>
+    <span style="color: rgb(255, 255, 0);">H</span>
+    <span style="color: rgb(255, 0, 255);"> </span>
+    <span style="color: rgb(0, 255, 255);">U</span>
+    <span style="color: rgb(255, 165, 0);">B</span>
+    <span style="color: rgb(128, 0, 128);">O</span>
+    <span style="color: rgb(0, 128, 0);">T</span>
+</p>
 
 ###          Installation
-<p align="center">click here 👇</p>
+<p align="center">click here</p>
 
 <p align="center">
     <a href="https://t.me/DYOH_USERBOT">
