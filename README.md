@@ -7,13 +7,17 @@
 # DYOH.USERBOT
 
 ## Installation
+## Installation
 <p align="center">click here 👇</p>
 
-
 <p align="center">
-    <a href="https://t.me/DYOH_USERBOT"> <!-- Replace 'yourusername' with your actual Telegram username -->
-        <img src="https://img.shields.io/badge/Contact%20on%20Telegram-blue?style=for-the-badge&logo=telegram" width="220" height="38.45"/>
+    <a href="https://t.me/DYOH_USERBOT">
+        <img src="https://img.shields.io/badge/Contact%20on%20Telegram-blue?style=for-the-badge&logo=telegram&color=black" width="220" height="38.45"/>
     </a>
+
+
+
+    
 </p>
 
 
