@@ -16,12 +16,9 @@ Spam Commands:
 {emoji}`{UBOT_HNDLR}raid`
 {emoji}`{UBOT_HNDLR}replyraid`
 {emoji}`{UBOT_HNDLR}dreplyraid`
-{emoji}`{UBOT_HNDLR}kya` 
-{emoji}`{UBOT_HNDLR}tumto`
 {emoji}`{UBOT_HNDLR}abuse`
 {emoji}`{UBOT_HNDLR}gaali`
 {emoji}`{UBOT_HNDLR}lgali`
-{emoji}`{UBOT_HNDLR}Xraid`
 """
 
 # Handler for the .sc command
