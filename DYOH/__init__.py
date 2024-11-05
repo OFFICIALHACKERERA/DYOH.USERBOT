@@ -8,8 +8,6 @@ logging.basicConfig(
     level=logging.INFO
 )
 
-# Version information
-deadlyversion = "v0.3.0"
 
 # Command handler prefix and SUDO user setup
 CMD_HNDLR = "/"  # Command handler prefix
