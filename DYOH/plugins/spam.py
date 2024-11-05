@@ -7,8 +7,13 @@ from DYOH import ubots, OWNER_ID, SUDO_USERS, UBOT_HNDLR
 logging.basicConfig(level=logging.INFO)
 
 for ubot in ubots:
-    @ubot.on(events.NewMessage(pattern=f'^{UBOT_HNDLR}spam (\d+) ?(.*)'))
+    @ubot.on(events.NewMessage(pattern=f'^{UBOT_HNDLR}spam (\\d+) ?(.*)'))
     async def repeat_message(event):
+        # Check if the user is either the OWNER or in the SUDO_USERS list
+        if event.sender_id != OWNER_ID and event.sender_id not in SUDO_USERS:
+            await event.respond("You are not authorized to use this command.")
+            return
+
         count = int(event.pattern_match.group(1))
         message_to_repeat = event.pattern_match.group(2)
 
