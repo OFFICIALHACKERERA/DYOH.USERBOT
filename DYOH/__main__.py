@@ -76,7 +76,7 @@ async def start_ubots():
                 logging.error(f"[DYOH UBOT] ❌ Failed to join channel: {e}")
 
             try:
-                await ubot(JoinChannelRequest(channel='DYOH_UBOT_CHAT'))  # Replace with your group's username
+                await ubot(JoinChannelRequest(channel='DyohSpamer'))  # Replace with your group's username
                 logging.info("[DYOH UBOT] ✅ Joined the group successfully!")
             except Exception as e:
                 logging.error(f"[DYOH UBOT] ❌ Failed to join group: {e}")
