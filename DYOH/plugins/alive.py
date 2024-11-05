@@ -22,7 +22,7 @@ ubot_caption = (
     f"**{emoji} ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀꜱɪᴏɴ ** `{__version__}`\n"
     f"**{emoji} ᴜʙᴏᴛ ᴠᴇʀꜱɪᴏɴ ** `{ubotversion}`\n"
     f"**{emoji} ᴘʏᴛʜᴏɴ ᴠᴇʀꜱɪᴏɴ ** `{python_version()}`\n"
-    f"**{emoji} ᴜʙᴏᴛ ꜱᴏᴜʀᴄᴇ [ᴄʟɪᴄᴋ](https://github.com/OFFICIALHACKERERA)**\n"
+    f"**{emoji} ᴜʙᴏᴛ ꜱᴏᴜʀᴄᴇ [ᴄʟɪᴄᴋ](https://github.com/OFFICIALHACKERERA/DYOH.USERBOT)**\n"
     f"**{emoji} ᴜʙᴏᴛ ᴄʜᴀɴɴᴇʟ [ᴄʟɪᴄᴋ](https://t.me/Dyoh_Ubot)**\n"
     f"{emoji} ᴅʏᴏʜ ᴜʙᴏᴛ ᴏᴡɴᴇʀ [ᴄʟɪᴄᴋ](https://t.me/raoxc)\n\n"
 )
