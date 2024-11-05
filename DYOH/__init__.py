@@ -13,7 +13,7 @@ deadlyversion = "v0.3.0"
 
 # Command handler prefix and SUDO user setup
 CMD_HNDLR = "/"  # Command handler prefix
-UBOT_HNDLR = "."  # Custom command handler
+UBOT_HNDLR = ""  # Custom command handler
 
 # Function to get the Bot token
 def get_bot_token():
